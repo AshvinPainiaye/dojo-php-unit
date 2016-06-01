@@ -1,0 +1,16 @@
+{
+    "name": "simplon-reunion/dojo-kit",
+    "description": "A starter kit for a coding dojo",
+    "authors": [
+        {
+            "name": "Simplon Réunion",
+            "email": "nludovic@simplon.co"
+        }
+    ],
+    "autoload":{
+      "psr-4":{
+        "SimplonReunion\\":"src/SimplonReunion/"
+      }
+    },
+    "require": {}
+}
